@@ -24,40 +24,66 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 
+<img width="520" height="82" alt="Screenshot 2025-11-10 053923" src="https://github.com/user-attachments/assets/993eebf3-a8f3-419a-aeb7-60f112483953" />
+
+
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
+
+<img width="600" height="92" alt="Screenshot 2025-11-10 053938" src="https://github.com/user-attachments/assets/b7ddc40b-416b-4b7b-853b-a86f134daee4" />
+
 
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
 
+<img width="629" height="367" alt="Screenshot 2025-11-10 054003" src="https://github.com/user-attachments/assets/33fb71e3-649e-44ab-9482-4bd67c192ea1" />
+
+
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
 
+<img width="680" height="117" alt="Screenshot 2025-11-10 054017" src="https://github.com/user-attachments/assets/f1b4d27a-8e14-4ef9-9fe9-03ab0cab3e39" />
+
+
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
+
+<img width="661" height="130" alt="Screenshot 2025-11-10 054048" src="https://github.com/user-attachments/assets/3cca9028-856a-468d-a08c-8ae317b0f0e1" />
+
 
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
 
+<img width="496" height="171" alt="Screenshot 2025-11-10 054137" src="https://github.com/user-attachments/assets/961e2f9b-58bd-4959-bd97-e4c8bc6d23ed" />
+
+
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
+
+<img width="619" height="776" alt="Screenshot 2025-11-10 054405" src="https://github.com/user-attachments/assets/ab4a4073-aca8-441a-928f-6344d355eabc" />
+
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
 
+<img width="576" height="204" alt="Screenshot 2025-11-10 054427" src="https://github.com/user-attachments/assets/68c2f578-1447-4ee6-afaa-0d646b9f540b" />
+
+
 ## COMMAND AND OUTPUT
 
-
 Compare the file hello.txt and rose.txt
+
+<img width="576" height="204" alt="Screenshot 2025-11-10 054427" src="https://github.com/user-attachments/assets/cab86039-800f-425b-a30b-0ed5ac5391c0" />
+
 
 ## COMMAND AND OUTPUT
 
@@ -69,6 +95,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
+<img width="474" height="160" alt="Screenshot 2025-11-10 054440" src="https://github.com/user-attachments/assets/511d8b08-412e-4bbf-af0e-8b1e46d0bfbc" />
 
 
 
@@ -84,6 +111,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
+<img width="568" height="212" alt="Screenshot 2025-11-10 054447" src="https://github.com/user-attachments/assets/471fcf8e-7335-4c5c-a5c2-146a93600ba4" />
 
 
 
@@ -94,6 +122,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
+<img width="476" height="230" alt="Screenshot 2025-11-10 054458" src="https://github.com/user-attachments/assets/850cd9c3-1ccc-4d0a-b9c0-1eb6cb5e1c32" />
 
 
 
@@ -107,6 +136,8 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
+<img width="488" height="184" alt="Screenshot 2025-11-10 054512" src="https://github.com/user-attachments/assets/3461489a-3091-4f07-ac46-c21504d21f95" />
+
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -116,6 +147,8 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
+
+<img width="427" height="463" alt="Screenshot 2025-11-10 054517" src="https://github.com/user-attachments/assets/3e233c07-1708-4d90-9ec5-b68d4614435f" />
 
 
 
